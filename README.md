@@ -50,9 +50,10 @@ To run this project on your local system, follow these steps:
 
 3.python main.py
 
-📌 Features
+##📌 Features
 Predicts concrete compressive strength based on material mix.
 Utilizes multiple machine learning models for comparative analysis.
 Provides insights into material composition for optimized construction quality.
-📜 Conclusion
+
+##📜 Conclusion
 The study concludes that Decision Tree Regressor and XGBRF Regressor perform best for predicting concrete strength. These models allow for a more accurate and reliable assessment of concrete strength before application, reducing potential structural failures and improving construction safety.
